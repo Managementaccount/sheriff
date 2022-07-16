@@ -38,4 +38,4 @@ async def on_ready():
 
 keep_alive.keep_alive()
 
-Bot.run("OTk3MjEwNjQ2OTI2MDczOTI2.GMCMa1.Zp8WMcabUlYUKwsnPBo8pzH6Kgi80nS6v0L3Ho")
+Bot.run("OTk3MjEwNjQ2OTI2MDczOTI2.G4a8ch.inpIYANzNkA0EZw8F43RRjHqS6ARVhV7qyHsfY")
